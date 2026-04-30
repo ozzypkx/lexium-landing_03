@@ -1,6 +1,7 @@
 .DS_Store
 .vercel
 node_modules
+dist
 preview*.png
 source-bundle.js
 source-style.css
