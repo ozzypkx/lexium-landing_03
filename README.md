@@ -16,4 +16,4 @@ This project is a static site. Vercel can deploy it directly from the repository
 
 ## Operational Inbox
 
-All investor enquiries, law firm applications, legal correspondence, and press enquiries are routed to `contact@lexium.finance`. This inbox should be live and actively monitored from day one.
+All investor enquiries, law firm applications, legal correspondence, and press enquiries are routed to `contact@lexium.capital`. This inbox should be live and actively monitored from day one.
